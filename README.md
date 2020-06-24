@@ -15,7 +15,7 @@
        ==> AND YES "BITCOIN "TOO
    
    
-   * Simple thing you need to do is just enter amount of money in rupee ( To know  it's value is in other countries)
+   * Simple thing you need to do is just enter amount of money in rupee ( To know  it's value  in other countries)
    * quickly you can get it's value equalent to it in other contries :) 
      
      *********TRY TO KNOW WHETHER YOU CAN BUY THE THINGS YOU LIKE WHEN YOU ARE IN SUCH COUNTRIES :) *********
