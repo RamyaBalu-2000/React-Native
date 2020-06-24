@@ -1,1 +1,6 @@
-# React-Native
+# React-Native "CURRENCY CONVERTER APP"
+
+***NATIVE MOBILE APP***
+
+WANNA KNOW ABOUT ITS WORKING :)
+   1. It converts "INDIAN RUPEES" to ---> DOLLARS,EURO,
