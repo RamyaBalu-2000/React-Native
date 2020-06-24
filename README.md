@@ -2,7 +2,7 @@
 
 ***NATIVE MOBILE APP***
 
-## WANNA KNOW ABOUT ITS WORKING :) 
+## WANNA KNOW ABOUT IT'S WORKING :) 
    * It converts "INDIAN RUPEES" to 
        ==> DOLLARS
        ==> EURO
